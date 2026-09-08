@@ -405,7 +405,7 @@ ol:not([class]) li ul {
   font-size: 16px;
   min-height: 55px;
   padding: 5px 30px;
-  background: #0077e4;
+  background: #9340F4;
   border: 1px solid rgba(255,255,255,.22);
   box-shadow: 0 0 31px #0d3f6b;
   position: relative;
@@ -772,7 +772,7 @@ ol:not([class]) li ul {
   width: 100%;
   height: 2px;
   background: #f7faff;
-  box-shadow: 0 0 2px #0077e4,0 0 6px #0077e4,0 0 11px #0077e4;
+  box-shadow: 0 0 2px #9340F4,0 0 6px #9340F4,0 0 11px #9340F4;
   border-radius: 1.25px;
   position: absolute;
   bottom: 0;
@@ -2387,4 +2387,11 @@ ol:not([class]) li ul {
 
 .dao-wrapper {
   padding: 1px;
+}
+
+
+
+
+img, video {
+  filter: hue-rotate(45deg);
 }
