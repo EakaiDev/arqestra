@@ -1,5 +1,5 @@
-# Arqestra
+# Costellar
 
-Production: https://www.arqestra.fun/
+Production: https://www.costellar.xyz/
 
 Static marketing website deployed to Vercel.
